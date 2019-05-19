@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GoPlayBookDemoApp</string>
+    <string name="moto">We aim to be your sports network where talent meets recognition !</string>
+    <string name="demo_txt">3 hrs ago</string>
+    <string name="demo_description">An absolute gem of a match between Avi Warriors and Ajeet
+Steelers at Jamia Millia Complex.</string>
+    <string name="match_name">Indian Premier League</string>
+    <string name="match_name1">Barcalays Premier League</string>
+    <string name="match_name2">Austrailian Premier League</string>
+    <string name="match_date">26 Febraury 2019</string>
+    <string name="match_time">2 PM</string>
+    <string name="match_place">Delhi</string>
+</resources>
